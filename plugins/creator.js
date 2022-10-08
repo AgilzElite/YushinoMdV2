@@ -26,25 +26,25 @@ let teksbio = `┆⫹⫺ 💌 Nama : Aldi
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
+┆⫹⫺ ⏰ Tanggal lahir : 11 - 1 - 2011
+┆⫹⫺ 🎨 Umur : 11
+┆⫹⫺ 🧮 Kelas : VI
+┆⫹⫺ 🧩 Hobby : PROGRAM
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Bali/Jatim
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
+let teksbio2 = `┆⫹⫺ 💌 Nama : -
+┆⫹⫺ ✉️ Nama RL : -
+┆⫹⫺ ♂️ Gender : -
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
+┆⫹⫺ ⏰ Tanggal lahir : -
+┆⫹⫺ 🎨 Umur : -
+┆⫹⫺ 🧮 Kelas : -
+┆⫹⫺ 🧩 Hobby : -
+┆⫹⫺ 💬 Sifat : -
+┆⫹⫺ 🗺️ Tinggal : Indonesia, -
 └––––––––––––·•
 `
 
